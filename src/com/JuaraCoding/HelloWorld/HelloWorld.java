@@ -12,6 +12,8 @@ public class HelloWorld {
 			System.out.println("");
 		}
 		}
+	
+	String nama= "Lukman Nul Hakim";
 //	private String wording;
 //		
 //		public HelloWorld() {
